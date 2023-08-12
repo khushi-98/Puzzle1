@@ -1,0 +1,11 @@
+solution:-
+Firstly we take one small block= 8*8
+Secondly, group of four blocks=7*7
+Third, group of nine blocks=6*6
+Fourth, group of 16 blocks=5*5
+Fifth, group of 25 blocks=4*4
+Sixth, group of 36 block=3*3
+Seventh, group of 49 blocks=2*2
+Eighth, group of 64 block=1
+
+Total Blocks are=8*8+7*7+6*6+5*5+4*4+3*3+2*2+1=204
